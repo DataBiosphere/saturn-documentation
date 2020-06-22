@@ -55,7 +55,7 @@ The team generally deploys services on a continuous basis, as changes are made. 
 
 The team utilizes periodic, automatic deployment processes, as well as manual deployment processes, depending on the service.
 
-Team members are generally entrusted with the ability to deploy services on-demand, and given training in doing so judiciously.
+Team members are generally entrusted with the ability to deploy services on-demand, and given training in doing so judiciously. (TODO: link to training document)
 
 The team uses automation and technological safeguards as appropriate to help ensure that the intended practices are followed.
 
