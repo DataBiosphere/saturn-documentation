@@ -2,6 +2,7 @@
 
 ## Current team members in no particular order 
 (TODO: either add or link to an expanded description of team roles)
+
 <table>
     <tr>
         <th>Name</th>
@@ -54,3 +55,4 @@
         <td>she/her</td>
     </tr>
 </table>
+
