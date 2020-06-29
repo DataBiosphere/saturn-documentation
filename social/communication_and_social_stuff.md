@@ -1,6 +1,7 @@
 # Communication and Social Stuff
 ## Email Lists/ Google Groups
 - saturn-dev
+- dsp-analysis-platform
 
 ## Calendars
 - DSDE Events
