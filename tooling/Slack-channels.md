@@ -1,4 +1,4 @@
-## Slack
+# Slack
 
 ## Join slack: broadinstitute.slack.com
 
@@ -8,16 +8,32 @@ Recommended channels to join:
 
 (TODO: finish updating/editing slack channel descriptions)
 
-|Channel|Description|
-|---|---|
-|\#saturn-team|private team channel for team discussion and alerting other members about absences, asking questions, etc|
-|\#saturn|public channel where other teams can bring questions to the Saturn team
-|\#dsp-engineering|
+|Team/Work|Purpose|Access|
+|---|---|---|
+|\#saturn-team|private team channel for team discussion and alerting other members about absences, asking questions, etc|private|
+|\#saturn|public channel where other teams can bring questions to the Saturn team|public|
+|\#dsp-engineering|channel for engineering questions |public|
 |\#dsp-workbench|
-|\#workbench-userliaison|channel for the current user liason to watch for questions and issues|
-|\#prometheus|
-|\#softeng|discussions on software/engineering
 |\#105b|
+
+Channels with * indicate that they have to be monitored if you are in charge of certain duties
+
+|Engineering/Technical|Purpose|Access|
+|---|---|---|
+|\#workbench-userliaison|*channel for the current user liason to watch for questions and issues|private|
+|\#workbench-oncall|*channel for to watch if you are on call|private|
+|\#workbench-resilience|*|public|
+|\#wb-serverstatus|*|public|
+|\#softeng|discussion about software/engineering topics|public|
+|\#prometheus|general DSP social chat/random chat|public|
+
+
+There are lots of other social channels, explore them! 
+
+|Social/Fun||
+|---|---|
 |\#social|general channel that posts social occasions, events, etc|
 |\#pets|highly recommended channel for excellent floofs, doges, and kitters|
 |\#broadexchange|channel for people who are buying/selling/giving away stuff
+|\#gardening|pretty plants!| 
+
