@@ -8,3 +8,5 @@
 ## Tooling
 1. [Vault](tooling/Vault.md): This document outlines our use of Vault for secrets management, and how to run and use vault
 
+## Communication and Social Aspects
+1. [Communication and Social Stuff](social/communication_and_social_stuff.md): This document outlines lists and Slack channels to join, along with affinity groups, and some context on Saturn team culture and DSP culture.
