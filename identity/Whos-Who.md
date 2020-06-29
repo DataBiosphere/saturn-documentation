@@ -1,6 +1,6 @@
 # Who's who in the terra team
 
-##Current team members in no particular order 
+## Current team members in no particular order 
 (TODO: either add or link to an expanded description of team roles)
 <table>
     <tr>
@@ -46,7 +46,7 @@
     <tr>
         <td>Cameron Ardell</td>
         <td>Associate Software Engineer</td>
-        <td>they/them</td>
+        <td>they/them OR he/him</td>
     </tr>
     <tr>
         <td>Emily Hanna</td>
