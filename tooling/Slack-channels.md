@@ -14,7 +14,7 @@ Recommended channels to join:
 |\#saturn|public channel where other teams can bring questions to the Saturn team|public|
 |\#dsp-engineering|channel for engineering questions |public|
 |\#dsp-workbench|
-|\#105b|
+|\#105b| channel for building related news and updates |
 
 Channels with * indicate that they have to be monitored if you are in charge of certain duties
 
@@ -36,4 +36,3 @@ There are lots of other social channels, explore them!
 |\#pets|highly recommended channel for excellent floofs, doges, and kitters|
 |\#broadexchange|channel for people who are buying/selling/giving away stuff
 |\#gardening|pretty plants!| 
-
