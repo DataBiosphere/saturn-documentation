@@ -7,5 +7,4 @@ A user issue comes in through one of the channels. The user liaison jumps on to 
 * If the issue is small enough, file a ticket to address immediately, bring the ticket into the sprint, and let the team (and especially product owner) know
 
 ## Why we have the role
-The user liaison's job is to beb a buffer against the world for the team. However, if the UL needs help, they can and should ask the team. (Their role is to handle initial triage, but in the spirit of the UL not needing to have all the answers, the team is encouraged to lift and support the UL)
-
+The user liaison's job is to be a buffer against the world for the team. However, if the UL needs help, they can and should ask the team. (Their role is to handle initial triage, but in the spirit of the UL not needing to have all the answers, the team is encouraged to lift and support the UL)
