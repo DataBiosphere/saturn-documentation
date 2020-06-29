@@ -12,12 +12,12 @@
     <tr>
         <td>Amelia Sagoff</td>
         <td>Product Owner</td>
-        <td></td>
+        <td>she/her</td>
     </tr>
     <tr>
         <td>Brian Reilly</td>
         <td>Principal Software Engineer & Delivery Lead</td>
-        <td></td>
+        <td>he/him</td>
     </tr>
     <tr>
         <td>Brett Heath-Wlaz</td>
@@ -27,12 +27,12 @@
     <tr>
         <td>Imani Harrison</td>
         <td>Scrum Master</td>
-        <td></td>
+        <td>she/her</td>
     </tr>
     <tr>
         <td>Joy Liu</td>
         <td>UX/UI</td>
-        <td></td>
+        <td>she/her</td>
     </tr>
     <tr>
         <td>Scout Rubenstein</td>
