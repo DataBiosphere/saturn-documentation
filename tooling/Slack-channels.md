@@ -36,4 +36,3 @@ There are lots of other social channels, explore them!
 |\#pets|highly recommended channel for excellent floofs, doges, and kitters|
 |\#broadexchange|channel for people who are buying/selling/giving away stuff
 |\#gardening|pretty plants!| 
-
