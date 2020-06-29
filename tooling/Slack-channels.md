@@ -14,7 +14,7 @@ Recommended channels to join:
 |\#saturn|public channel where other teams can bring questions to the Saturn team|public|
 |\#dsp-engineering|channel for engineering questions |public|
 |\#dsp-workbench|
-|\#105b|
+|\#105b|channel for building related news and updates|public|
 
 Channels with * indicate that they have to be monitored if you are in charge of certain duties
 
@@ -25,7 +25,7 @@ Channels with * indicate that they have to be monitored if you are in charge of 
 |\#workbench-resilience|*|public|
 |\#wb-serverstatus|*|public|
 |\#softeng|discussion about software/engineering topics|public|
-|\#prometheus|general DSP social chat/random chat|public|
+|\#prometheus|channel for DSP coffee talk|public|
 
 
 There are lots of other social channels, explore them! 
