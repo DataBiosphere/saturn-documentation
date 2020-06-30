@@ -1,7 +1,8 @@
 # Who's who in the terra team
 
-##Current team members in no particular order 
+## Current team members in no particular order 
 (TODO: either add or link to an expanded description of team roles)
+
 <table>
     <tr>
         <th>Name</th>
@@ -11,12 +12,12 @@
     <tr>
         <td>Amelia Sagoff</td>
         <td>Product Owner</td>
-        <td></td>
+        <td>she/her</td>
     </tr>
     <tr>
         <td>Brian Reilly</td>
         <td>Principal Software Engineer & Delivery Lead</td>
-        <td></td>
+        <td>he/him</td>
     </tr>
     <tr>
         <td>Brett Heath-Wlaz</td>
@@ -26,12 +27,12 @@
     <tr>
         <td>Imani Harrison</td>
         <td>Scrum Master</td>
-        <td></td>
+        <td>she/her</td>
     </tr>
     <tr>
         <td>Joy Liu</td>
         <td>UX/UI</td>
-        <td></td>
+        <td>she/her</td>
     </tr>
     <tr>
         <td>Scout Rubenstein</td>
@@ -46,7 +47,7 @@
     <tr>
         <td>Cameron Ardell</td>
         <td>Associate Software Engineer</td>
-        <td>they/them</td>
+        <td>they/them OR he/him</td>
     </tr>
     <tr>
         <td>Emily Hanna</td>
@@ -54,3 +55,4 @@
         <td>she/her</td>
     </tr>
 </table>
+
