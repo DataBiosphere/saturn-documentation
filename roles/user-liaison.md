@@ -1,5 +1,5 @@
 # User Liaison
-The user liaison is a role within the Saturn team that addresses issues that block only a few users on prod (whereas on-call addresses issues that block many users on prod) The only requirements to participate in the user liaison process are having a development setup and access to the #workbench-userliaison channel. This channel is private, so to take on user liaison duties, message a member of the comms team. The user liaison is responsible for watching #saturn and #workbench-userliaison for any reports on bugs in our services.
+The User Liaison (UL) is a role within the the Terra Platform designed to support the Frontline Support team. The details are outlined [here](https://docs.google.com/document/d/1jFlkqccNolyHzMJpS84-PaBV4AbC3H6HKtJUmQnPeAc/edit). In addition, the UL should monitor the #saturn channel
 
 ## Typical flow
 A user issue comes in through one of the channels. The user liaison jumps on to find a root cause, then either:
