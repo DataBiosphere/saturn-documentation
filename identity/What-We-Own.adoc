@@ -1,0 +1,32 @@
+= What We Own
+
+== Current owned services in alphabetical order
+[cols="2", options="header"]
+|===
+| Name
+| Description
+
+| link:https://github.com/DataBiosphere/bard[Bard]
+| Bard is a service which manages our integrations with metrics services. As of 6/24/2020, this is only Mixpanel.
+
+| link:https://github.com/DataBiosphere/terra-ui/blob/dev/integration-tests/Bueller.md[Bueller]
+| Bueller is a service which hosts our integration tests for the Terra UI as an application, with one endpoint for each integration test.
+
+| link:https://github.com/DataBiosphere/calhoun[Calhoun]
+| Calhoun is a service which generates read-only views of notebooks for previews. It does not require a running cluster, and spits out the notebook file as HTML.
+
+| link:https://github.com/DataBiosphere/job-manager[Job Manager]
+| Job manager is a UI and API service that is ued by users of the Terra platform to manage and inspect in progress, finished, or errored batch jobs.
+
+| link:https://github.com/DataBiosphere/lyle[Lyle]
+| Lyle is a service to manage allocating temporary google service accounts for use as test users
+
+| link:https://github.com/DataBiosphere/rex[Rex]
+| Rex is a service for collecting Net Promoter Score (NPS) survey responses.
+
+| link:https://github.com/DataBiosphere/saturn-ui-prod-deploy[Saturn UI Prod Deploy]
+| This service manages deploys of the Terra UI service to production.
+
+| link:https://github.com/DataBiosphere/terra-ui[Terra UI]
+| The Terra UI manages display of the terra website
+|===
