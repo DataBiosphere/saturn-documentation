@@ -1,6 +1,6 @@
 # Who's who in the terra team
 
-## Current team members in no particular order 
+## Current team members in no particular order
 (TODO: either add or link to an expanded description of team roles)
 
 <table>
@@ -22,7 +22,7 @@
     <tr>
         <td>Brett Heath-Wlaz</td>
         <td>Senior Principal Software Engineer & Tech Principal</td>
-        <td></td>
+        <td>he/him</td>
     </tr>
     <tr>
         <td>Imani Harrison</td>
@@ -55,4 +55,3 @@
         <td>she/her</td>
     </tr>
 </table>
-
