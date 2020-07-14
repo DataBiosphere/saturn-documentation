@@ -6,34 +6,8 @@
 ## Calendars
 - DSDE Events
 
-## Slack Channels
-Some of these are more work-related than others. Here are some recommendations, but definitely explore the entire menu on Slack!
-
-- 105b
-- a11y
-	- general channel for discussing accessibility
-- broadexchange
-- crafters
-- dsp-workbench
-- foods-discuss
-- foodies
-- jm-in-terra
-- kiaras-weather-update
-- ladieswholunch
-- mbta
-- pets
-	- just  pictures of Broadies’ pets. Best channel ever.
-- prometheus 
-	- water cooler talk and nerdy tomfoolery generally
-- remotework
-	- for discussing the experience of working remotely and how to optimize it
-- snowsports
-- softens
-- softeng-announce
-- terryls-annoucements
-	- how to control the message on the TV in the Terra pod at 105 Broadway (the most recent sent message in the channel is shown)
-- workbench-release
-- workbench-userliason
+## Slack
+Slack is our primary communication method for questions, issues, and discussion, especially while we work remotely. For suggestions on channels to check out and how to join it, go to `tooling/Slack.md`.
 
 ## Affinity Groups
 These groups all have Google groups you can join for email lists and calendars. Check them out [here](intranet.broadinstitute.org/broad-affinity-groups)!
