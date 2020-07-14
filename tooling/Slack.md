@@ -6,8 +6,6 @@ Slack is a major communication method for questions, issues, and discussion. Sat
 
 Recommended channels to join: 
 
-(TODO: finish updating/editing slack channel descriptions)
-
 |Team/Work|Purpose|Access|
 |---|---|---|
 |\#saturn-team|private team channel for team discussion and alerting other members about absences, asking questions, etc|private|
