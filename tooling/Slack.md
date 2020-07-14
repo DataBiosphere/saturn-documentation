@@ -6,7 +6,7 @@ Slack is a major communication method for questions, issues, and discussion. `#s
 
 Recommended channels to join: 
 
-|Team/Work|Purpose|Access|
+|Team/ Work|Purpose|Access|
 |---|---|---|
 |\#saturn-team|private team channel for team discussion and alerting other members about absences, asking questions, etc|private|
 |\#saturn|public channel where other teams can bring questions to the Saturn team|public|
@@ -17,7 +17,7 @@ Recommended channels to join:
 
 Channels with * indicate that they have to be monitored if you are in charge of certain duties
 
-|Engineering/Technical|Purpose|Access|
+|Engineering/ Technical|Purpose|Access|
 |---|---|---|
 |\#workbench-userliaison|*channel for the current user liason to watch for questions and issues|private|
 |\#workbench-oncall|*channel for to watch if you are on call|private|
@@ -32,9 +32,9 @@ Channels with * indicate that they have to be monitored if you are in charge of 
 
 There are lots of other social channels, explore them! 
 
-|Social/Fun Examples||
+|Social/ Fun Examples||
 |---|---|
 |\#social|general channel that posts social occasions, events, etc|
 |\#pets|highly recommended channel for excellent floofs, doges, and kitters|
-|\#broadexchange|channel for people who are buying/selling/giving away stuff
+|\#broadexchange|channel for people who are buying/ selling/ giving away stuff
 |\#gardening|pretty plants!| 
