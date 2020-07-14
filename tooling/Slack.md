@@ -2,7 +2,7 @@
 
 ## Join slack: broadinstitute.slack.com
 
-Slack is a major communication method for questions, issues, and discussion. Saturn-team is the primary team channel.
+Slack is a major communication method for questions, issues, and discussion. `#saturn-team` is the primary team channel.
 
 Recommended channels to join: 
 
