@@ -54,4 +54,9 @@
         <td>Associate Software Engineer</td>
         <td>she/her</td>
     </tr>
+    <tr>
+        <td>Terryl the Turtle</td>
+        <td>Mascot</td>
+        <td>they/them</td>
+    </tr>
 </table>
