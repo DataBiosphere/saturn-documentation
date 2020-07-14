@@ -8,7 +8,6 @@
 ## Tooling - internal documentation
 1. [Vault](tooling/Vault.md): This document outlines our use of Vault for secrets management, and how to run and use vault
 
-
 ## Tooling - external links
 
 1. [Jira](https://broadworkbench.atlassian.net/secure/RapidBoard.jspa?rapidView=59&projectKey=SATURN): Link to the sprint board and backlog
