@@ -20,4 +20,4 @@
 8. [Iterm2](https://www.iterm2.com/): Link to Terminal emulator some team members use
 
 ## Communication and Social Aspects
-1. [Communication and Social Stuff](social/communication_and_social_stuff.md): This document outlines lists and Slack channels to join, along with affinity groups, and some context on Saturn team culture and DSP culture.
+1. [Communication and Social Stuff](social/communication_and_social_stuff.md): This document outlines email lists and affinity groups to join, and some context on Saturn team and DSP culture.
