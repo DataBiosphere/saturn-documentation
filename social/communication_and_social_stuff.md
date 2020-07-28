@@ -19,4 +19,4 @@ These groups all have Google groups you can join for email lists and calendars. 
 
 ## DSP Culture Things
 - **Broadiversary** : the anniversary that you started working at the Broad
--  **Cake Table** : table in the kitchen where generally baked goods and candy for public consumption is placed. Typically populated by cakes celebrating Broadiversaries or candies from wherever a group of people just went on a business trip
+- **Cake Table** : table in the kitchen where generally baked goods and candy for public consumption is placed. Typically populated by cakes celebrating Broadiversaries or candies from wherever a group of people just went on a business trip
