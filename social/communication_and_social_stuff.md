@@ -14,9 +14,9 @@ These groups all have Google groups you can join for email lists and calendars. 
 
 
 ## Saturn Culture Things
-- **Terryl the Turtle**: they are our mascot and a wonderful stuff animal that goes on the desk of whoever the user liaison is
+- **Terryl the Turtle**: they are our mascot and a wonderful stuffed animal that goes on the desk of whoever the user liaison is
 - **Vester runs**: the team regularly goes to the best cafe in Kendall square, Vester, as a group. If you are going and are feeling socially inclined, feel free to ask around if anyone wants to come with you.
 
 ## DSP Culture Things
 - **Broadiversary** : the anniversary that you started working at the Broad
--  **cake table** : table in the kitchen where generally baked goods and candy for public consumption is placed. Typically populated by cakes celebrating Broadiversaries or candies from wherever a group of people just went on a business trip
+-  **Cake Table** : table in the kitchen where generally baked goods and candy for public consumption is placed. Typically populated by cakes celebrating Broadiversaries or candies from wherever a group of people just went on a business trip
