@@ -18,3 +18,6 @@
 6. [IntelliJ](): (TODO: add link to intelliJ download or docs for using Broad license): Link to code editor that some team members use
 7. [Insomnia](https://insomnia.rest/): Link to API design editor some team members use
 8. [Iterm2](https://www.iterm2.com/): Link to Terminal emulator some team members use
+
+## Communication and Social Aspects
+1. [Communication and Social Stuff](social/communication_and_social_stuff.md): This document outlines email lists and affinity groups to join, and some context on Saturn team and DSP culture.
