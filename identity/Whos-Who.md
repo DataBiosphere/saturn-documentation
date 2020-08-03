@@ -1,62 +1,15 @@
 # Who's who in the terra team
 
-## Current team members in no particular order
-(TODO: either add or link to an expanded description of team roles)
-
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Role</th>
-        <th>Pronouns</th>
-    </tr>
-    <tr>
-        <td>Amelia Sagoff</td>
-        <td>Product Owner</td>
-        <td>she/her</td>
-    </tr>
-    <tr>
-        <td>Brian Reilly</td>
-        <td>Principal Software Engineer & Delivery Lead</td>
-        <td>he/him</td>
-    </tr>
-    <tr>
-        <td>Brett Heath-Wlaz</td>
-        <td>Senior Principal Software Engineer & Tech Principal</td>
-        <td>he/him</td>
-    </tr>
-    <tr>
-        <td>Imani Harrison</td>
-        <td>Scrum Master</td>
-        <td>she/her</td>
-    </tr>
-    <tr>
-        <td>Joy Liu</td>
-        <td>UX/UI</td>
-        <td>she/her</td>
-    </tr>
-    <tr>
-        <td>Scout Rubenstein</td>
-        <td>Software Engineer</td>
-        <td>they/them</td>
-    </tr>
-    <tr>
-        <td>Kai Feldman</td>
-        <td>Associate Software Engineer</td>
-        <td>she/her</td>
-    </tr>
-    <tr>
-        <td>Cameron Ardell</td>
-        <td>Associate Software Engineer</td>
-        <td>they/them OR he/him</td>
-    </tr>
-    <tr>
-        <td>Emily Hanna</td>
-        <td>Associate Software Engineer</td>
-        <td>she/her</td>
-    </tr>
-    <tr>
-        <td>Terryl the Turtle</td>
-        <td>Mascot</td>
-        <td>they/them</td>
-    </tr>
-</table>
+## Current team members in alphabetical order
+| **Name** | **Role** | **Pronouns**|
+| ------------- | ------------- | ----------- |
+| Amelia Sagoff | Product Owner | she/her |
+| Brett Heath-Wlaz | Principal Software Engineer & [Tech Principal](https://docs.google.com/document/d/1VpIZxioALxGGO8-eRLPHAbzOgSdTHpEzrOHzIzLMw2o/edit?usp=sharing) | he/his |
+| Brian Reilly | Principal Software Engineer &  [Delivery Lead](https://docs.google.com/document/d/1s6fAd_Tbxt6ws0OzLKrvguM7Z5rQJTmSw_3b2JZyc_E/edit?usp=sharing) | he/his |
+| Cameron Ardell | Associate Software Engineer | they/them OR he/his |
+| Emily Hanna | Software Engineer | she/her |
+| Imani Harrison | [Scrum Master](https://docs.google.com/document/d/1EICsjJ2dg0t2VY9hmTbJ5UZvZHTnvgcfDD_zw_47FmY/edit?usp=sharing) | she/her |
+| Joy Liu | UX/UI | she/her |
+| Kai Feldman | Associate Software Engineer | she/her |
+| Scout Rubenstein | Software Engineer | they/them |
+| Terryl the Turtle | Mascot | they/them |
