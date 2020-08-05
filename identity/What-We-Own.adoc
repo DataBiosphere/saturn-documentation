@@ -7,7 +7,7 @@
 | Description
 
 | link:https://github.com/DataBiosphere/bard[Bard]
-| Bard is a service which manages our integrations with metrics services. As of 6/24/2020, this is only #Mixpanel#.
+| Bard is a service which manages our integrations with metrics services. As of 6/24/2020, this is only Mixpanel.
 
 | link:https://github.com/DataBiosphere/terra-ui/blob/dev/integration-tests/Bueller.md[Bueller]
 | Bueller is a service which hosts our integration tests for the Terra UI as an application, with one endpoint for each integration test.
