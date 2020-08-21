@@ -1,0 +1,10 @@
+= Scandium (21) Sprint Summary
+
+* Used link:https://broadworkbench.atlassian.net/browse/SATURN-1740[MixPanel to see if any users were impacted by 1000 Genomes dataset outage].
+* Some updates to documentation in link:https://github.com/databiosphere/saturn-documentation[new documentation repo].
+* Additional properties to track persistent disk usage added to MixPanel metrics.
+* Simplified view for selecting a default compute environment. Costs pinned to top and highlighted. Some nice quality of life improvements.
+* Demo of persistent disk UI, minor tweaks left before deploy.
+* Resizing down is a specialized action that deletes and recreates the disk. This is supported by Leo and matches previous behavior.
+
+Team focus remains on persistent disk support. Code lives in a branch and will be deployed when the feature is finished.
