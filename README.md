@@ -15,7 +15,7 @@
 3. [Github Desktop](https://desktop.github.com/): Link to Github Desktop. Some team members use this instead of CLI
 4. [Lodash FP](https://github.com/lodash/lodash/wiki/FP-Guide): Link to Lodash FP docs. A JS library we use in our code
 5. [Hyperscript helper](): (TODO: add link to documentation)
-6. [IntelliJ](): (TODO: add link to intelliJ download or docs for using Broad license): Link to code editor that some team members use
+6. [IntelliJ](https://broad.service-now.com/sp?id=kb_article&sys_id=091247b213f3c340449fb86f3244b008): Link to access the Broad license for an editor some team members use.
 7. [Insomnia](https://insomnia.rest/): Link to API design editor some team members use
 8. [Iterm2](https://www.iterm2.com/): Link to Terminal emulator some team members use
 
